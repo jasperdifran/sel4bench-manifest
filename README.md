@@ -14,7 +14,7 @@ Use the repo tool as described on [the wiki](https://docs.sel4.systems/GettingSt
 
     mkdir sel4bench
     cd sel4bench
-    repo init -u https://github.com/seL4/sel4bench-manifest.git
+    repo init -u https://github.com/jasperdifran/sel4bench-manifest.git
     repo sync
     mkdir build
     cd build
